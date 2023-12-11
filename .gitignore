@@ -3,4 +3,8 @@
 *.sln
 /.idea/
 *.csproj
-/final11/bin/Debug
+/final11/bin/Debug/net8.0/
+*.json
+*.exe
+*.pdb
+*.dll
