@@ -1,0 +1,5 @@
+/final11/obj/
+*.xml
+*.sln
+/.idea/
+*.csproj
